@@ -52,4 +52,5 @@ read -s -n1 -p "Step 5 = Look over my polished resume and read over the job desc
 echo
 read -s -n1 -p "Step 6 = Save my resume to the ~/JobSearch/resumes file (press any key to continue) "
 
+echo
 source celebrate_job_application_completion.sh
