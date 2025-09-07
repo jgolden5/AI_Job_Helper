@@ -1,0 +1,8 @@
+STEP 1: Get a resume based on Previous Resume and job description
+`Given the following resume and job description, ask me questions about my experience at this and other jobs in order to make my resume as relevant as possible to make me look like the ideal candidate for the role: 
+Resume:
+<Paste resume here>
+
+Job Description:
+<Paste job description here>`
+STEP 2: Read resume and add pieces to the given resume as needed based on experience that the AI didn't know about
